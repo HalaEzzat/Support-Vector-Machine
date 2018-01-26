@@ -1,4 +1,4 @@
-function w=LDF(w,p,endofp)%get desired wieght
+function w=LDF(w,p,endofp) %get desired wieght%
 update=1;
 while update==1 
      for i=1:endofp
